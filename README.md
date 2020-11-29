@@ -1,1 +1,1 @@
-"# lpkd" 
+"# Absensi Aslab with QR-code" 
